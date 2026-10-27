@@ -6,3 +6,4 @@
 # disclose, copy, or distribute this file or any information contained herein 
 # except pursuant to a valid written license from Synopsys.
 #############################################################################
+SYNOPSYS CONFIDENTIAL
